@@ -1,0 +1,21 @@
+.btn-grey{
+	background-color: #9A9483;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: whitesmoke;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+.btn-grey: hover{
+	background-color: darkgrey;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+
+.btn-grey:hover {
+	background-color: #9A9483;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: black;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
